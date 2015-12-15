@@ -19,8 +19,8 @@ To get started you'll need:
   SmartThings (because GeoHopper web scripts cannot send header auth data to
 SmartThings).
 - SmartThings Hub
--- [A Virtual Presence Device](https://github.com/ajpri/STApps/blob/master/devicetypes/ajpri/virtual-mobile-presence.src/virtual-mobile-presence.groovy)
--- A SmartApp assigned to your Virtual Presence Device
+	- [A Virtual Presence Device](https://github.com/ajpri/STApps/blob/master/devicetypes/ajpri/virtual-mobile-presence.src/virtual-mobile-presence.groovy)
+	- A SmartApp assigned to your Virtual Presence Device
 
 Installation
 --------------------
