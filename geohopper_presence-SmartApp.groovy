@@ -75,7 +75,7 @@ private void update (devices) {
    
    if (location){
         if (!device) {
-        	log.debug "Error: device (${device}) not found"
+        	log.debug "Error: device not found. Make sure location name (${location}) matches your virtual device name."
             httpError(404, "Device not found")
      	} else {
             if(event == "LocationExit"){
